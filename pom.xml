@@ -11,6 +11,7 @@
 	<groupId>com.artdevs</groupId>
 	<artifactId>ArtDevs_Sever-1</artifactId>
 	<version>1.0.1</version>
+	<packaging>war</packaging>
 	<name>ArtDevs_Sever-1</name>
 	<description>project </description>
 	<properties>
